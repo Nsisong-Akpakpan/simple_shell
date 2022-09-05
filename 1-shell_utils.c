@@ -7,7 +7,7 @@ void ctrl_C(int signum)
 }
 
 /**
- * _getline - takes input from the user
+ * _getline - this takes input from the user
  * Return: the string read
  */
 
